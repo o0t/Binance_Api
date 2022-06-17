@@ -8,3 +8,4 @@
 
 ![image](https://user-images.githubusercontent.com/94997828/174209253-f1e0bd66-5e11-45dc-92a4-60c6202cf860.png)
 
+# If you want updated results, use Js
